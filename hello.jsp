@@ -11,7 +11,7 @@
 </td>
 <td>
 <h1>Sample Application JSP Page</h1>
-This is the output of a JSP Page that is part of the Hello , World
+This is the output of a JSP Page that is part of the Hello , World blah
 application.
 </td>
 </tr>
