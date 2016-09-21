@@ -69,7 +69,7 @@ public final class Hello extends HttpServlet {
 	writer.println("<td>");
 	writer.println("<h1>Sample Application Servlet</h1>");
 	writer.println("This is the output of a servlet that is part of");
-	writer.println("the Hello, World application.");
+	writer.println("The Hello, World application.");
 	writer.println("</td>");
 	writer.println("</tr>");
 	writer.println("</table>");
